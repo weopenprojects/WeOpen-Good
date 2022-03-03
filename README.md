@@ -18,7 +18,7 @@ WeOpen Good 开源公益计划会对征集到的、有成长性的公益优秀�
 * 普惠教育或其它领域。
 
 ## 目前入选案例&导师认领情况
-WeOpen Good 开源公益计划已向社会募集并甄选出15个公益示范案例：
+WeOpen Good 开源公益计划已向社会募集并甄选出15个公益示范案例：[项目进度](https://github.com/weopenprojects/WeOpen-Good/tree/main/Projects-Progress)
 
 
 | 项目名称 |      项目相关技术内容介绍       |  技术需求  |  对接腾源会导师  |
