@@ -1,9 +1,9 @@
 # WeOpen-Good
-## WeOpen-Good 简介
+## WeOpen-Good 简介 🌟
 2022 年，腾源会携手开源社，与众多开源社区和开发者社区一起，重磅推出开源公益计划（WeOpen Good），秉承「聚开源智慧·行科技向善」的宗旨，希望将开源技术如人工智能、区块链、云计算、大数据、物联网等，应用在更广泛的民生领域，解决社会痛点。
 WeOpen Good 开源公益计划会对征集到的、有成长性的公益优秀应用案例，给予资源支持和技术辅导，进而加速、提升开源创新在公益领域的普及与深化。
 
-## WeOpen-Good 案例覆盖领域
+## WeOpen-Good 案例覆盖领域 📡
 
 * 无障碍：通过技术创造更包容的解决方案，为具有不同程度生理伤残缺陷者和正常活动能力衰退者，提供良好的数字和信息服务，改善使用体验，畅享数字生活。
 
@@ -17,8 +17,10 @@ WeOpen Good 开源公益计划会对征集到的、有成长性的公益优秀�
 
 * 普惠教育或其它领域。
 
-## 目前入选案例&导师认领情况
-WeOpen Good 开源公益计划已向社会募集并甄选出17公益示范案例：[项目进度](https://github.com/weopenprojects/WeOpen-Good/tree/main/Projects-Progress)
+## 目前入选案例&导师认领情况 🎉
+WeOpen Good 开源公益计划已向社会募集并甄选出17公益示范案例：
+[项目双周报告](https://github.com/weopenprojects/WeOpen-Good/tree/main/Projects-Weekly)
+[辅导项目进展](https://github.com/weopenprojects/WeOpen-Good/tree/main/Projects-Progress)
 
 
 | 项目名称 |      项目相关技术内容介绍       |  技术需求  |  对接腾源会导师  |
@@ -41,7 +43,7 @@ WeOpen Good 开源公益计划已向社会募集并甄选出17公益示范案例
 |e家宜业|物联网、大数据、机器学习|机器学习和大型数据库集群相关|| |
 |阅芽计划小程序|人工智能个性化用户合辑推荐算法：</br>通过分析，挖掘用户行为，推荐用户的个性化的合辑。将适合用户的合辑推荐推送到用户的界面上。达到不同的用户有不同的推荐列表。</br>每个合辑都有算法计算出一个推荐值。以下是算法计算过程。</br>相关指标数据：</br>Xage：合辑X的年龄段值。</br>Yage：用户Y的年龄段指数。</br>Xtype：合辑X的主题类型。</br>Ytype：用户Y的主题偏好。</br>Xweekhit：合辑X最近一周的点击总次数</br>weekallhit：最近一周所有合辑的点击总次数</br>m：主题修正指数，比如m=10</br>n：合辑点击修正指数</br>Xuptime：合辑X上线时间距离合辑功能首次发布时间的天数， </br>alltime：当天距离合辑功能首次发布时间的天数</br>r：上线时间修正指数</br>合辑X对用户的推荐值=Σ（Xage * Yage）+ Σ （Xtype * Ytype）* m + Xweekhit/weekallhit * n + Xuptime/alltime * r|用户出生证图，模糊不易处理提取信息。|| |
 
-## WeOpen Good 计划周期
+## WeOpen Good 计划周期 📌
 |时间|进程|
 |:-:|:-:|
 |2022年2月18日|计划发布，开启项目申报通道| |
@@ -52,7 +54,7 @@ WeOpen Good 开源公益计划已向社会募集并甄选出17公益示范案例
 |2022年下半年|开源公益计划第二阶段开展| |
 |2022年9月9日|腾讯99公益日期间对外宣发| |
 
-# 投递优秀案例
+# 投递优秀案例 📩
 如果您也有优秀的案例希望投递，或希望成为 WeOpen Good 公益计划的志愿者，欢迎扫描下方二维码，进入问卷页面留下您的信息。
 
 <img src="./公益计划案例征集.jpeg" width="300px" title="公益计划案例征集投递" alt="project qrcode">
