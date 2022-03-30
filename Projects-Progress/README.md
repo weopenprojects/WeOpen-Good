@@ -38,7 +38,7 @@
 - [【案例辅导进度核对表】](https://docs.qq.com/doc/DSlB6RGZvTXhZakVj)
 
 ## 公益数字化
-> 腾源会导师：
+> 腾源会导师：王伟
 - [【双周报告】](https://docs.qq.com/doc/DSm5ySk5rdlZIYXln)
 - [【案例信息收集表】](https://docs.qq.com/doc/DSnRNWHNKZ21IUEt3)
 - [【案例辅导进度核对表】](https://docs.qq.com/doc/DSm1KYUtYcmt3Rklq)
