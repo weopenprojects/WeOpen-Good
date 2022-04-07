@@ -13,12 +13,6 @@
 - [【案例信息收集表】](https://docs.qq.com/doc/DSlh4WE5WYXFmcUdU)
 - [【案例辅导进度核对表】](https://docs.qq.com/doc/DSlFSRWdrY3RiUEdz)
 
-## “呼吸健康万人筛查”公益项目
-> 腾源会导师：刘天栋、肖宇、万慧
-- [【双周报告】](https://docs.qq.com/doc/DSmJtYnJZYWpCSEZG)
-- [【案例信息收集表】](https://docs.qq.com/doc/DSkxkamxpbVNSSUlS)
-- [【案例辅导进度核对表】](https://docs.qq.com/doc/DSlVoVmx2WkpPakF6)
-
 ## 乐龄申城·G生活
 > 腾源会导师：谢孟军、万慧
 - [【双周报告】](https://docs.qq.com/doc/DSlByS2dVcUZ3YlBP)
@@ -48,4 +42,11 @@
 - [【双周报告】](https://docs.qq.com/doc/DSk96RFprSFFwTEJD)
 - [【案例信息收集表】](https://docs.qq.com/doc/DSlNyc3BRRmdUc3FG)
 - [【案例辅导进度核对表】](https://docs.qq.com/doc/DSlNNVVZFcU9oZ1Rm)
+
+
+## “呼吸健康万人筛查”公益项目（暂停）
+> 腾源会导师：刘天栋、肖宇、万慧
+- [【双周报告】](https://docs.qq.com/doc/DSmJtYnJZYWpCSEZG)
+- [【案例信息收集表】](https://docs.qq.com/doc/DSkxkamxpbVNSSUlS)
+- [【案例辅导进度核对表】](https://docs.qq.com/doc/DSlVoVmx2WkpPakF6)
 
