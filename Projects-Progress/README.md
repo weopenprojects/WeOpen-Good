@@ -44,7 +44,7 @@
 - [【案例辅导进度核对表】](https://docs.qq.com/doc/DSlNNVVZFcU9oZ1Rm)
 
 
-## “呼吸健康万人筛查”公益项目（暂停）
+## “呼吸健康万人筛查”公益项目（暂停3-4月）
 > 腾源会导师：刘天栋、肖宇、万慧
 - [【双周报告】](https://docs.qq.com/doc/DSmJtYnJZYWpCSEZG)
 - [【案例信息收集表】](https://docs.qq.com/doc/DSkxkamxpbVNSSUlS)
