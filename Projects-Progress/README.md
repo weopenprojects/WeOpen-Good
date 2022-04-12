@@ -1,37 +1,37 @@
 
 # WeOpen Good 开源公益计划项目进展
 
-## 应急救援组件系统
+## 应急救援组件系统（进度放缓）
 > 腾源会导师：肖宇、姜宁、王伟
 - [【双周报告】](https://docs.qq.com/doc/DSnRjZVF6SG9jcHNq)
 - [【案例信息收集表】](https://docs.qq.com/doc/DSndYT1haU21Ob0lU)
 - [【案例辅导进度核对表】](https://docs.qq.com/doc/DSldXQWROeXFHUFph)
 
-## 有益云开源社区
+## 有益云开源社区（正常周会）
 > 腾源会导师：刘天栋、万慧
 - [【双周报告】](https://docs.qq.com/doc/DSkxkZE5HWE5TU2Fk)
 - [【案例信息收集表】](https://docs.qq.com/doc/DSlh4WE5WYXFmcUdU)
 - [【案例辅导进度核对表】](https://docs.qq.com/doc/DSlFSRWdrY3RiUEdz)
 
-## 乐龄申城·G生活
+## 乐龄申城·G生活（正常周会）
 > 腾源会导师：谢孟军、万慧
 - [【双周报告】](https://docs.qq.com/doc/DSlByS2dVcUZ3YlBP)
 - [【案例信息收集表】](https://docs.qq.com/doc/DSm9WVGNwY01SbUJ4)
 - [【案例辅导进度核对表】](https://docs.qq.com/doc/DSk54YkxUR0xPSHhz)
 
-## 公益表单管理系统
+## 公益表单管理系统（正常周会）
 > 腾源会导师：肖宇、彭友顺
 - [【双周报告】](https://docs.qq.com/doc/DSkZNbFlUR1B6VmFO)
 - [【案例信息收集表】](https://docs.qq.com/doc/DSnlMcEV1bWdUTWRQ)
 - [【案例辅导进度核对表】](https://docs.qq.com/doc/DSnVQRGNCanhJWndV)
 
-## 云教室在线支教
+## 云教室在线支教（周会时间待定）
 > 腾源会导师：耿航、赵生宇、王伟
 - [【双周报告】](https://docs.qq.com/doc/DSndYcUhQVmhWcnRH)
 - [【案例信息收集表】](https://docs.qq.com/doc/DSlR3elZQUnp3QXpx)
 - [【案例辅导进度核对表】](https://docs.qq.com/doc/DSlB6RGZvTXhZakVj)
 
-## 公益数字化
+## 公益数字化（正常周会）
 > 腾源会导师：王伟、肖宇
 - [【双周报告】](https://docs.qq.com/doc/DSm5ySk5rdlZIYXln)
 - [【案例信息收集表】](https://docs.qq.com/doc/DSnRNWHNKZ21IUEt3)
